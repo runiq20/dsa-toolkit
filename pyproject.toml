@@ -1,0 +1,17 @@
+[project]
+name = "dsa-toolkit"
+version = "0.1.0"
+description = "toolkit to solve simple data structure tasks"
+authors = [
+    {name = "Ratul"}
+]
+license = {text = "MPL-2.0"}
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
